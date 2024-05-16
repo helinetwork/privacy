@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heli Network Privacy</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Lalezar&display=swap" rel="stylesheet">
+
+    <style>
+        h1 {
+            text-align: center;
+            margin-block: 24px;
+            background: rgb(255,55,95);
+            background: linear-gradient(146deg, rgba(255,55,95,1) 0%, rgba(178,86,214,1) 35%, rgba(149,0,255,1) 71%, rgba(50,173,230,1) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        h2 {
+            margin-block: 24px;
+            background: rgb(255,55,95);
+            background: linear-gradient(146deg, rgba(255,55,95,1) 0%, rgba(178,86,214,1) 35%, rgba(149,0,255,1) 71%, rgba(50,173,230,1) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 700;
+        }
+
+        h3 {
+            text-align: center;
+            margin-block: 24px;
+            font-size: 16px;
+            font-weight: 500;
+            margin-bottom: 64px;
+        }
+
+        p {
+            line-height: 2;
+            text-align: justify;
+            font-size: 18px;
+            margin: 0;
+            margin-bottom: 24px;
+        }
+
+        .content {
+            max-width: 653px;
+            margin: auto;
+            padding-top: 64px;
+            padding-bottom: 24px;
+        }
+        span.copyright {
+            color: #515154;
+            font-size: 12.99px;
+            margin-bottom: 16px;
+            text-align: center;
+            display: block;
+            width: '100%'
+        }
+
+        body {
+            font-family: 'Be Vietnam Pro', sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Heli Network Data Policy</h1>
+        <h3>Updated May 16, 2024</h3>
+
+        <h2>Data Policy</h2>
+        <p>This policy describes the information that
+          We collect and process to support the Heli Network product provided by 3C INFORMATION AND TECHNOLOGY DEVELOPMENT JOINT STOCK COMPANY.
+          Policy changes will be sent by us via contact information
+          your information and notifications through applications provided by us.</p>
+
+        <h2>I. What types of information do we collect?</h2>
+        <h2>Contact informations:</h2>
+        <ul>
+            <li>
+                <p>
+                  <b>Contact informations:</b> Your personal phone number, email and address.
+                </p>
+            </li> 
+            <li>
+                <p>
+                  <b>Identification information: </b>unique identification such as Username, User ID information we provided to you when register account.
+                </p>
+            </li>
+        </ul>
+
+        <h2>II. How do we use this information?</h2>
+        <p>
+          We use the information we have (depending on your choices)
+          as described below to provide and support 3C INFORMATION AND TECHNOLOGY DEVELOPMENT JOINT STOCK COMPANY products.
+          Here's how:
+        </p>
+
+        <h2>Contact you.</h2>
+        <p>
+          We use your <b>Email, phone number and address</b> to response and contact you regarding account issues and services we provide when you contact us.
+        </p>
+<!--         <span class="copyright">Copyright © 2024 3C INFORMATION AND TECHNOLOGY DEVELOPMENT JOINT STOCK COMPANY.</span> -->
+    </div>
+</body>
+</html>
